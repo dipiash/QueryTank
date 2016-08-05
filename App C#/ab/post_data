@@ -1,0 +1,1 @@
+data={"PacketNum": "1","Receiver":"241","Channel":3840,"Level":121,"DataHex":"2|1|2|0|0|90|0|4f|0|0|0|0|0|0|0|0|ff|e|91|0|73|2c|0","Station":"::ffff:127.0.0.1","StationHubIP":"::ffff:127.0.0.1"}
