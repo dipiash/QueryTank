@@ -3,9 +3,9 @@ module.exports = {
         //host: 'localhost',
         localAddress: '',
         socketPath: '',
-        user: 'root',
+        user: '',
         password: '',
-        database: 'telecan',
+        database: '',
         connectionLimit: 10
     },
     appPort: 3000,
