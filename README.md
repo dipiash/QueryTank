@@ -1,2 +1,2 @@
 # QueryTank
-Приложение написано для тестирования прототипа серверной части на Node.js, параллельно с утилитой ab.
+The application was written to test a server-side prototype on Node.js, in parallel with the ab utility.
